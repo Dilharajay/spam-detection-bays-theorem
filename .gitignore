@@ -11,3 +11,8 @@ wheels/
 
 # Python lock version
 .python-version
+
+#report files
+
+report.md
+main.ipynb
